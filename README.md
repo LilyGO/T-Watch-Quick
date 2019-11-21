@@ -20,4 +20,4 @@ ESP flash download tool(https://www.espressif.com/zh-hans/support/download/other
 
 #### 连接蓝牙 Car1
 
-## 5.程序安装
+## 5.遥控使用
